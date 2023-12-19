@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "pwork9_dispetcher/1.0.0": {
+        "runtime": {
+          "pwork9_dispetcher.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pwork9_dispetcher/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

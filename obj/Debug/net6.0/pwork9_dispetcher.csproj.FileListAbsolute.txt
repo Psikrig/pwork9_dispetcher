@@ -1,0 +1,14 @@
+C:\Users\Влад\source\repos\pwork9_dispetcher\pwork9_dispetcher\obj\Debug\net6.0\pwork9_dispetcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Влад\source\repos\pwork9_dispetcher\pwork9_dispetcher\obj\Debug\net6.0\pwork9_dispetcher.AssemblyInfoInputs.cache
+C:\Users\Влад\source\repos\pwork9_dispetcher\pwork9_dispetcher\obj\Debug\net6.0\pwork9_dispetcher.AssemblyInfo.cs
+C:\Users\Влад\source\repos\pwork9_dispetcher\pwork9_dispetcher\obj\Debug\net6.0\pwork9_dispetcher.csproj.CoreCompileInputs.cache
+C:\Users\Влад\source\repos\pwork9_dispetcher\pwork9_dispetcher\bin\Debug\net6.0\pwork9_dispetcher.exe
+C:\Users\Влад\source\repos\pwork9_dispetcher\pwork9_dispetcher\bin\Debug\net6.0\pwork9_dispetcher.deps.json
+C:\Users\Влад\source\repos\pwork9_dispetcher\pwork9_dispetcher\bin\Debug\net6.0\pwork9_dispetcher.runtimeconfig.json
+C:\Users\Влад\source\repos\pwork9_dispetcher\pwork9_dispetcher\bin\Debug\net6.0\pwork9_dispetcher.dll
+C:\Users\Влад\source\repos\pwork9_dispetcher\pwork9_dispetcher\bin\Debug\net6.0\pwork9_dispetcher.pdb
+C:\Users\Влад\source\repos\pwork9_dispetcher\pwork9_dispetcher\obj\Debug\net6.0\pwork9_dispetcher.dll
+C:\Users\Влад\source\repos\pwork9_dispetcher\pwork9_dispetcher\obj\Debug\net6.0\refint\pwork9_dispetcher.dll
+C:\Users\Влад\source\repos\pwork9_dispetcher\pwork9_dispetcher\obj\Debug\net6.0\pwork9_dispetcher.pdb
+C:\Users\Влад\source\repos\pwork9_dispetcher\pwork9_dispetcher\obj\Debug\net6.0\pwork9_dispetcher.genruntimeconfig.cache
+C:\Users\Влад\source\repos\pwork9_dispetcher\pwork9_dispetcher\obj\Debug\net6.0\ref\pwork9_dispetcher.dll
